@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=img\dame-mas-gasolina.ico mas_gasolina.py
